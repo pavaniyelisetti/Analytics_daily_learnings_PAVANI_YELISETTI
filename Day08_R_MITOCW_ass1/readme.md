@@ -16,3 +16,6 @@ temporal trends, arrest rates, and high-risk locations.
 - Arrest rates were higher in earlier years
 - Gas stations show higher arrest rates
 - Location and timing matter for enforcement strategy
+
+#access the assignment questions from
+https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/an-introduction-to-analytics/assignment-1/
