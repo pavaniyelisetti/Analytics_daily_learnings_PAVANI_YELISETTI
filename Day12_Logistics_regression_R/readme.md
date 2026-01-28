@@ -25,4 +25,6 @@ was more valuable than predicting every possible hit.
 
 ---
 
-Code and datasets are included for learning and reference.
+Here is the link where you can find the assignment questions:
+
+https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/logistic-regression/assignment-3/
